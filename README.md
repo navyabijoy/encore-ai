@@ -1,6 +1,6 @@
-# SwatchIt — Pre-loved Beauty Marketplace
+# Encore — Pre-loved Beauty Marketplace
 
-> **Luxury looks at affordable prices.** SwatchIt is a full-stack MERN marketplace for buying and selling pre-loved beauty products, complete with AI-powered semantic search and a "You Might Also Like" recommendation engine.
+> **Luxury looks at affordable prices.** Encore is a full-stack MERN marketplace for buying and selling pre-loved beauty products, complete with AI-powered semantic search and a "You Might Also Like" recommendation engine.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## Overview
 
-SwatchIt lets users list pre-owned beauty products (makeup, skincare, haircare, fragrances, tools & accessories) and discover similar items through two search modes:
+Encore lets users list pre-owned beauty products (makeup, skincare, haircare, fragrances, tools & accessories) and discover similar items through two search modes:
 
 - **Keyword search** — filter by category, brand, condition, and price.
 - **Semantic / Smart Search** — query by meaning using a 128-dimensional embedding model, so a search for *"moisturising face cream"* surfaces relevant listings even when the words don't match exactly.
