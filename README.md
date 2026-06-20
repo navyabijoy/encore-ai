@@ -1,4 +1,4 @@
-# Encore — Pre-loved Beauty Marketplace
+# Encore — Beauty Marketplace
 
 > **Luxury looks at affordable prices.** Encore is a full-stack MERN marketplace for buying and selling pre-loved beauty products, complete with AI-powered semantic search and a "You Might Also Like" recommendation engine.
 
